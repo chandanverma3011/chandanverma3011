@@ -54,7 +54,13 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=chandanverma3011)
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake.svg" />
+  </picture>
+</p>
 
 
 
